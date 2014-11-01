@@ -1,5 +1,6 @@
 /* Imports for global scope */
 
+_ = Package.underscore._;
 Meteor = Package.meteor.Meteor;
 WebApp = Package.webapp.WebApp;
 main = Package.webapp.main;
@@ -17,7 +18,6 @@ Handlebars = Package.ui.Handlebars;
 Spacebars = Package.spacebars.Spacebars;
 check = Package.check.check;
 Match = Package.check.Match;
-_ = Package.underscore._;
 Random = Package.random.Random;
 EJSON = Package.ejson.EJSON;
 HTML = Package.htmljs.HTML;

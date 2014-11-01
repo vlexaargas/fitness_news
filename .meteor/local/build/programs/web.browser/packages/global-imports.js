@@ -1,5 +1,6 @@
 /* Imports for global scope */
 
+_ = Package.underscore._;
 Meteor = Package.meteor.Meteor;
 WebApp = Package.webapp.WebApp;
 Log = Package.logging.Log;
@@ -15,7 +16,6 @@ Spacebars = Package.spacebars.Spacebars;
 Template = Package.templating.Template;
 check = Package.check.check;
 Match = Package.check.Match;
-_ = Package.underscore._;
 $ = Package.jquery.$;
 jQuery = Package.jquery.jQuery;
 Random = Package.random.Random;

@@ -222,6 +222,11 @@
       "path": "packages/meteor-platform.js"
     },
     {
+      "sourceMap": "packages/mizzao_bootstrap-3.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/mizzao_bootstrap-3.js"
+    },
+    {
       "sourceMap": "packages/session.js.map",
       "sourceMapRoot": "packages",
       "path": "packages/session.js"
@@ -233,9 +238,6 @@
     },
     {
       "path": "packages/global-imports.js"
-    },
-    {
-      "path": "app/fitness_news.js"
     }
   ]
 }

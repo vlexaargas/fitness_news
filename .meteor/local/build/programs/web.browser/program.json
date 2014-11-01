@@ -255,6 +255,28 @@
       "hash": "c3059a78bb200b171099fc4fa1a9345101790ddb"
     },
     {
+      "path": "packages/jquery.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/jquery.js?265926494aaa3929cd2e30da265211c5929f37a4",
+      "sourceMap": "packages/jquery.js.map",
+      "sourceMapUrl": "/packages/265926494aaa3929cd2e30da265211c5929f37a4.map",
+      "size": 1295407,
+      "hash": "265926494aaa3929cd2e30da265211c5929f37a4"
+    },
+    {
+      "path": "packages/mizzao_bootstrap-3.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/mizzao_bootstrap-3.js?1b23876192e931cc8703ffdc2f4e3aad02e57421",
+      "sourceMap": "packages/mizzao_bootstrap-3.js.map",
+      "sourceMapUrl": "/packages/1b23876192e931cc8703ffdc2f4e3aad02e57421.map",
+      "size": 290322,
+      "hash": "1b23876192e931cc8703ffdc2f4e3aad02e57421"
+    },
+    {
       "path": "packages/webapp.js",
       "where": "client",
       "type": "js",
@@ -308,17 +330,6 @@
       "sourceMapUrl": "/packages/718526445deb4d9baacb6d92c551adea1d36c1e1.map",
       "size": 1413,
       "hash": "718526445deb4d9baacb6d92c551adea1d36c1e1"
-    },
-    {
-      "path": "packages/jquery.js",
-      "where": "client",
-      "type": "js",
-      "cacheable": true,
-      "url": "/packages/jquery.js?265926494aaa3929cd2e30da265211c5929f37a4",
-      "sourceMap": "packages/jquery.js.map",
-      "sourceMapUrl": "/packages/265926494aaa3929cd2e30da265211c5929f37a4.map",
-      "size": 1295407,
-      "hash": "265926494aaa3929cd2e30da265211c5929f37a4"
     },
     {
       "path": "packages/htmljs.js",
@@ -413,44 +424,107 @@
       "where": "client",
       "type": "js",
       "cacheable": true,
-      "url": "/packages/global-imports.js?ddfcd9be6cef3c8bb0263139937a05092e4a3fe9",
+      "url": "/packages/global-imports.js?29cf3930b48b63b867d209d27fccdd8d2d8c9da8",
       "size": 718,
-      "hash": "ddfcd9be6cef3c8bb0263139937a05092e4a3fe9"
+      "hash": "29cf3930b48b63b867d209d27fccdd8d2d8c9da8"
     },
     {
-      "path": "app/template.fitness_news.js",
+      "path": "app/client/templates/posts/template.post_item.js",
       "where": "client",
       "type": "js",
       "cacheable": true,
-      "url": "/template.fitness_news.js?e119ff8df948cfe8167f49eb28794995a594841c",
-      "size": 551,
-      "hash": "e119ff8df948cfe8167f49eb28794995a594841c"
-    },
-    {
-      "path": "app/fitness_news.js",
-      "where": "client",
-      "type": "js",
-      "cacheable": true,
-      "url": "/fitness_news.js?a4ef596255404350be2cc45303caea02f934cd17",
+      "url": "/client/templates/posts/template.post_item.js?b53fd1fe9e7182c4b7b59cf8f080c6de277d9613",
       "size": 497,
-      "hash": "a4ef596255404350be2cc45303caea02f934cd17"
+      "hash": "b53fd1fe9e7182c4b7b59cf8f080c6de277d9613"
     },
     {
-      "path": "20ae2c8d51b2507244e598844414ecdec2615ce3.css",
+      "path": "app/client/templates/posts/template.posts_list.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/templates/posts/template.posts_list.js?c7a69957c7366cd8632f76fc32c9239f003e0065",
+      "size": 403,
+      "hash": "c7a69957c7366cd8632f76fc32c9239f003e0065"
+    },
+    {
+      "path": "app/client/template.main.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/template.main.js?a5140098bcb0f21880aa420f5f75e43bd2306be9",
+      "size": 528,
+      "hash": "a5140098bcb0f21880aa420f5f75e43bd2306be9"
+    },
+    {
+      "path": "app/client/templates/posts/posts_list.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/templates/posts/posts_list.js?e110f1b471bf0596023fa07819a91317eaff9f42",
+      "size": 323,
+      "hash": "e110f1b471bf0596023fa07819a91317eaff9f42"
+    },
+    {
+      "path": "app/client/main.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/main.js?2a3453bba5b8f7e5a39caf4f0fb6016f1b588104",
+      "size": 19,
+      "hash": "2a3453bba5b8f7e5a39caf4f0fb6016f1b588104"
+    },
+    {
+      "path": "d7b57a3853fa83ec278bd7a3bcbf50d28b334432.css",
       "where": "client",
       "type": "css",
       "cacheable": true,
-      "url": "/20ae2c8d51b2507244e598844414ecdec2615ce3.css",
-      "sourceMap": "20ae2c8d51b2507244e598844414ecdec2615ce3.css.map",
-      "sourceMapUrl": "/20ae2c8d51b2507244e598844414ecdec2615ce3.map",
-      "size": 30,
-      "hash": "20ae2c8d51b2507244e598844414ecdec2615ce3"
+      "url": "/d7b57a3853fa83ec278bd7a3bcbf50d28b334432.css",
+      "sourceMap": "d7b57a3853fa83ec278bd7a3bcbf50d28b334432.css.map",
+      "sourceMapUrl": "/d7b57a3853fa83ec278bd7a3bcbf50d28b334432.map",
+      "size": 139074,
+      "hash": "d7b57a3853fa83ec278bd7a3bcbf50d28b334432"
+    },
+    {
+      "path": "packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.eot",
+      "size": 20335,
+      "hash": "f3a9a3b609133c3d21d6b42abbf7f43bd111df72"
+    },
+    {
+      "path": "packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.ttf",
+      "size": 41280,
+      "hash": "aafafdc09404c4aa4447d7e898a2183def9cc1b1"
+    },
+    {
+      "path": "packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.svg",
+      "size": 62926,
+      "hash": "66b1fc67e37d01ee45ca75c4eefb144d2dbe98fa"
+    },
+    {
+      "path": "packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.woff",
+      "size": 23320,
+      "hash": "22037a3455914e5662fa51a596677bdb329e2c5c"
     },
     {
       "path": "head.html",
       "where": "internal",
       "type": "head",
-      "hash": "fa55e34ea2a5a54c48c3a54a6e3ec6ffb78f866d"
+      "hash": "d7fd2cfdef4af78c5fd31d45bfdec4ce74df80ac"
     }
   ]
 }
