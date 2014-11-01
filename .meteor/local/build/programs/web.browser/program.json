@@ -456,6 +456,15 @@
       "hash": "a5140098bcb0f21880aa420f5f75e43bd2306be9"
     },
     {
+      "path": "app/client/templates/posts/post_item.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/templates/posts/post_item.js?7e833fdf1cd5ddca4df52663ba7f5a11fc83261e",
+      "size": 165,
+      "hash": "7e833fdf1cd5ddca4df52663ba7f5a11fc83261e"
+    },
+    {
       "path": "app/client/templates/posts/posts_list.js",
       "where": "client",
       "type": "js",
